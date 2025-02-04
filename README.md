@@ -7,12 +7,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+I’m Xavier, a recent graduate with a Bachelor of Science in Information Systems from Singapore Management University. With a strong foundation in cloud technologies, software engineering, and cybersecurity, I’m passionate about driving innovation through technology.
 
-I am Xavier, a student aspiring to step into the world of cloud engineering and solutions architecture. Currently pursuing my Bachelor of Science (Information Systems) at Singapore Management University, I am an AWS Certified Cloud Practitioner and Solutions Architect Associate, showcasing my commitment to mastering cloud technologies. 
+I hold both the AWS Certified Cloud Practitioner and Solutions Architect Associate certifications, alongside expertise in Terraform and hands-on experience with cloud infrastructure. My diverse skill set spans across cloud engineering, software development, and cybersecurity, positioning me to contribute effectively to a range of technical challenges.
 
-Actively seeking an internship opportunity in cloud engineering or solutions architecture from May 2024 to December 2024, my expertise in Terraform and AWS certifications fuel my drive to contribute to innovative projects. Eager to learn and grow, I am excited about the prospect of bringing my enthusiasm and technical expertise to a dynamic team.
-
-- 🔭 I’m currently working on Terraform projects
+Currently exploring opportunities in Software Engineering, Cloud Engineering, and Cybersecurity Engineering, I’m eager to apply my skills in real-world projects and collaborate with forward-thinking teams. With a drive for continuous learning and problem-solving, I look forward to leveraging my knowledge and passion for technology in a dynamic, growth-oriented environment.
 
 
 <div>
